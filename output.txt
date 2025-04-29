@@ -1,0 +1,7 @@
+Invalid input 'Hello'. Not an integer.
+Factorial is too large.
+Factorial of 4: 24
+Factorial of 9: 362880
+Invalid input 'Example'. Not an integer.
+Number is negative.
+Invalid input '7.5'. Not an integer.
